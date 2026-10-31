@@ -1,0 +1,9 @@
+obd==0.7.3
+pyserial==3.5
+Pint==0.24.4
+pandas==3.0.1
+numpy==2.4.3
+scikit-learn==1.9.1
+scipy==1.18.1
+joblib==1.6.0
+matplotlib==3.10.9
