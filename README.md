@@ -49,3 +49,5 @@ Az ábrák az `abrak/`, a modell és az útelőzmények a `modell/` mappába ker
 ## Adatok
 
 A szkriptek a `logs/` mappában lévő `seat_log_ÉÉÉÉHHNN_ÓÓPPMM.csv` naplókat dolgozzák fel. A szakdolgozat 39 naplóból készült (2026. március 8. – szeptember 6.). A véletlen magok rögzítettek (`random_state=42`), így a szkriptek ugyanazokból a naplókból ugyanazokat a számokat adják.
+
+A mérési adatok személyes vezetési adatokat tartalmaznak, ezért nem részei a tárolónak; kérésre rendelkezésre bocsátom őket.
